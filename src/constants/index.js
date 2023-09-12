@@ -23,6 +23,9 @@ import {
     jobit,
     tripguide,
     threejs,
+    trezi,
+    digicollect,
+    capgemini,
   } from "../assets";
   
   export const navLinks = [
@@ -46,17 +49,18 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Frontend Developer",
+      icon: creator,
+    },
+    {
+      title: "ReactJS Developer",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "VueJS Developer",
       icon: backend,
     },
-    {
-      title: "Content Creator",
-      icon: creator,
-    },
+    
   ];
   
   const technologies = [
@@ -116,11 +120,11 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
+      title: "Software Engineer Lead",
+      company_name: "Capgemini",
+      icon: capgemini,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "April 2022 - Present",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -129,11 +133,11 @@ import {
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
+      title: "Senior Software Development Engineer",
+      company_name: "SmartVizX",
+      icon: trezi,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "July 2020 - April 2022",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -142,11 +146,11 @@ import {
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
+      title: "Senior Software Engineer/Lead",
+      company_name: "DigiCollect",
+      icon: digicollect,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "Jan 2017 - June 2020",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -154,44 +158,52 @@ import {
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
     },
-    {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
+    // {
+    //   title: "Full stack Developer",
+    //   company_name: "Meta",
+    //   icon: meta,
+    //   iconBg: "#E6DEDD",
+    //   date: "Jan 2023 - Present",
+    //   points: [
+    //     "Developing and maintaining web applications using React.js and other related technologies.",
+    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+    //     "Implementing responsive design and ensuring cross-browser compatibility.",
+    //     "Participating in code reviews and providing constructive feedback to other developers.",
+    //   ],
+    // },
   ];
   
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
+        "He is perfect example towards work, punctual for personal and professional, In terms of technology sounds knowledge in part of react js and agile methodologies.",
+      name: "Dooj",
+      designation: "Senior Consultant",
+      company: "Capgemini",
       image: "https://randomuser.me/api/portraits/women/4.jpg",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
+        "He has good coding skills, is a hardworking and dedicated person and he is a professional, helpful and positive person.",
+      name: "Vinay",
+      designation: "Senior Software Engineer",
+      company: "Capgemini",
+      image: "https://randomuser.me/api/portraits/women/4.jpg",
+    },
+    {
+      testimonial:
+        "Nandish is one of the best front-end developers that I have had the pleasure of working with. He can consistently come up with solutions for difficult and obscure front end issues.",
+      name: "Bharat",
+      designation: "Senior Backend Developer",
+      company: "DigiCollect",
       image: "https://randomuser.me/api/portraits/men/5.jpg",
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
+        "He's ability to juggle multiple projects was unlike any I’ve seen before, very hardworking and extremely talented individual,",
+      name: "Sharath",
+      designation: "Lead Engineer - Mobile Platforms",
+      company: "DigiCollect",
       image: "https://randomuser.me/api/portraits/women/6.jpg",
     },
   ];
