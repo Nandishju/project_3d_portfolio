@@ -138,7 +138,11 @@ const experiences = [
     iconBg: "#383E56",
     date: "April 2022 - Present",
     points: [
-      "Developing and maintaining web applications using React.js, TypeScript and other related technologies.",
+      "Developing and maintaining web applications using React.js, TypeScript, Redux and other related technologies.",
+      "Worked on creating and refining the overall architecture, component hierarchy, state management, and data flow within the application",
+      "Highly involved in the entire product development process from ideation to development and improvement for features,reaching over 250,000 users",
+      "Relocated a multi-page user experience into a single page application, improving customer engagement by 12%",
+      "Implemented feature using Mapbox and D3JS",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
@@ -154,8 +158,12 @@ const experiences = [
     points: [
       "Developing and maintaining web applications using React.js, TypeScript, Redux-Saga and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Updated a XL Sheet with 6000+ data monthly to allow the uploading of content using Redux",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Worked on Fetching the events from Google and Outlook Calendar in VueJS",
+      "Worked on Third party authentication (Google & Microsoft).",
+      "Deploying the front-end servers using Docker.",
+      "Worked on both VueJS with Electron for Desktop app, ReactJS with Typescript"
     ],
   },
   {
@@ -167,8 +175,11 @@ const experiences = [
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Leading the team in meeting all project deadlines.",
+      "Worked alongside 2 develppers to implement APIs which helped the internal analytics team to increase the reporting speed by 24%",
+      "Lead a team of 7 front end developers, giving support to the client's multi-cultural team, providing feedback, clarifying requirements and helping with technical questions",
+      "Prioritized and problem-solved multiple tasks connected to multiple projects at one time.",
+      "Worked on both VueJS and ReactJS Library"
     ],
   },
   // {
