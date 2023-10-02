@@ -33,6 +33,17 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import game2048 from "./2048.png";
+import youtube from "./youtube.png";
+import tictoctoe from "./tictoctoe.png";
+import amazonClone from "./amazonClone.png";
+import blockchain from "./blockchain.png";
+import vueweather from "./vueweather.png";
+import phoneStore from "./phoneStore.png";
+import medium from "./medium.png";
+import recepie from "./recepie.png";
+
+
 export {
   logo,
   backend,
@@ -65,4 +76,13 @@ export {
   carrent,
   jobit,
   tripguide,
+  game2048,
+  youtube,
+  tictoctoe,
+  amazonClone,
+  blockchain,
+  vueweather,
+  phoneStore,
+  medium,
+  recepie,
 };
