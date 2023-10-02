@@ -20,7 +20,7 @@ const ProjectCard = ({
     <motion.div variants={fadeIn("up", "spring", index * 0.5, 0.75)}>
       <Tilt
         options={{
-          max: 100,
+          max: 45,
           scale: 1,
           speed: 450,
         }}
@@ -69,7 +69,7 @@ const ProjectCard = ({
 
 const Works = () => {
   return (
-    <>
+    <div className="works__section">
       <motion.div variants={textVariant()}>
         <p className={`${styles.sectionSubText} `}>My work</p>
         <h2 className={`${styles.sectionHeadText}`}>Projects.</h2>
@@ -93,7 +93,7 @@ const Works = () => {
           <ProjectCard key={`project-${index}`} index={index} {...project} />
         ))}
       </div>
-    </>
+    </div>
   );
 };
 

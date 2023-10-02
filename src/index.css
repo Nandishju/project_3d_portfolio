@@ -126,6 +126,10 @@
   transform: translateZ(0);
 }
 
+.works__section div, p{
+  opacity: 1!important;
+}
+
 @keyframes mulShdSpin {
   0%,
   100% {
