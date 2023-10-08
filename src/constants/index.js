@@ -204,7 +204,7 @@ const testimonials = [
     name: "Dooj",
     designation: "Senior Consultant",
     company: "Capgemini",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    // image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
@@ -212,7 +212,7 @@ const testimonials = [
     name: "Vinay",
     designation: "Senior Software Engineer",
     company: "Capgemini",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    // image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
@@ -220,7 +220,7 @@ const testimonials = [
     name: "Bharat",
     designation: "Senior Backend Developer",
     company: "DigiCollect",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    // image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
@@ -228,7 +228,7 @@ const testimonials = [
     name: "Sharath",
     designation: "Lead Engineer - Mobile Platforms",
     company: "DigiCollect",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    // image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
 
